@@ -1,1 +1,2 @@
-"HSM Hook Scorecard " 
+HSM Hook Scorecard
+
